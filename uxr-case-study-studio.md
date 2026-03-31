@@ -1,6 +1,9 @@
 ---
 name: uxr-case-study-studio
 description: "Guides UX researchers through building interview-ready case studies and writing strong CV bullets. Walks users through a 13-section case study structure with guided prompts, strong/weak examples, and quality checks at each step. Works from uploaded materials, rough notes, or from scratch. Use when someone says 'help me write my case study', 'review my case study', 'build my UXR portfolio', 'case study outline', 'improve this case study', 'rewrite these bullets', 'help with my resume', or uploads a draft for feedback. Also use when someone mentions 'case study sections', 'research impact statement', 'synthesis process', or asks how to present their UXR work for interviews."
+metadata:
+  version: 1
+  author: Dragana Trgovcevic
 ---
 
 # UXR Case Study Studio
