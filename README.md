@@ -24,7 +24,7 @@ Also handles CV bullet rewriting using an impact formula (power verb + what you 
 
 **Requires:** Claude Pro, Max, Team, or Enterprise ($20/mo for Pro). Code Execution must be enabled.
 
-1. **[→ Download uxr-case-study-studio.md](https://drive.google.com/uc?export=download&id=1VU4iS6U5HX00m6TCqjyEcs6qb8kgodYs)** (or grab it from this repo)
+1. **[→ Download uxr-case-study-studio.md](https://drive.google.com/uc?export=download&id=1gU3jscBS7x2Z7YLpI4mkgN6cEBqQ2HOs)** (or grab it from this repo)
 2. Open [claude.ai](https://claude.ai)
 3. Go to **Settings → Capabilities → Skills**
 4. Click **Upload skill**
